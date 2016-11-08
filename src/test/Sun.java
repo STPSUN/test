@@ -15,6 +15,7 @@ public class Sun
 		System.out.println("sun4");
 		System.out.println("sun5");
 		chi
-	}
+		System.out.println("sun6");
+}
 
 }
