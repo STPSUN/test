@@ -10,6 +10,7 @@ public class Sun
 	{
 		System.out.println("sun");
 		System.out.println("sun2");
+		System.out.println("sun3");
 	}
 
 }
